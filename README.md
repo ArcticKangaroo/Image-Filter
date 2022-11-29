@@ -16,7 +16,7 @@
 </details>
 
 ## About
-An image filter in C to process bitmap (BMP) images and apply grayscale, reflection, blur and Sobel edge detection filters
+An image filter in C to process bitmap (BMP) images and apply grayscale, reflection, blur and Sobel edge detection filters.
 
 ## How To Run
 Compile with `make filter`.
