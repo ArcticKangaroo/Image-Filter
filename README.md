@@ -3,6 +3,9 @@
   <h3 align="center">Image Filter</h3>
   <p align="center"><i>A C program to apply filters to images</i></p>
 </div>
+
+![Output](https://user-images.githubusercontent.com/62847649/204623929-6adfbee7-bde3-4e72-a829-6c5924025f20.jpg)
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +17,6 @@
 
 ## About
 An image filter in C to process bitmap (BMP) images and apply grayscale, reflection, blur and Sobel edge detection filters
-![Output](https://user-images.githubusercontent.com/62847649/204623929-6adfbee7-bde3-4e72-a829-6c5924025f20.jpg)
 
 ## How To Run
 Compile with `make filter`.
